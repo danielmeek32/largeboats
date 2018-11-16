@@ -1,5 +1,7 @@
 Minetest mod: largeboats
 ========================
+**This repository is archived. Future development will take place at https://gitlab.com/danielmeek32/largeboats.**
+
 Large boats that can carry two players. Craft from two regular boats.
 
 The first player to get in sits at the back and controls the boat. The front
